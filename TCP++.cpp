@@ -63,7 +63,7 @@ int main()
 {
     string AdrIPt;
     int PORT = 53514;
-    cout << "Put your IP adresse: ";
+    cout << "Put your IP adress: ";
     cin >> AdrIPt;
     cout << "Please select a PORT number: ";
     cin >> PORT;
