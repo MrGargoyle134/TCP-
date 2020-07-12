@@ -1,0 +1,23 @@
+(C) Bilal Bouamer 2020, all rights reserved.
+TCP++, A FREE TCP SERVERS SOFTWARE.
+
+Welcome to TCP++!
+
+TCP++ is a free software that you can use to create your TCP server.
+This file will help you to create one.
+
+NOTE: If you're on Windows you must install Cygwin and g++ to have the DLL files.
+
+HOW I CREATE A TCP SERVER?
+First, execute the TCP++ version for your OS.
+
+Next, put your IP address and choose a communication port.
+Now your computer is a server, you can connect other computers with telnet
+or netcat.
+
+Example: telnet 192.168.1.20 55555
+
+Clients can send messages and the server can see messages from clients.
+Many clients can connect to a server.
+
+ENJOY!
