@@ -6,7 +6,7 @@ Welcome to TCP++!
 TCP++ is a free software that you can use to create your TCP server.
 This file will help you to create one.
 
-NOTE: If you're on Windows you must install Cygwin and g++ to have the DLL files.
+NOTE: If you're on Windows you must download Cygwin's DLL files.
 
 HOW I CREATE A TCP SERVER?
 First, execute the TCP++ version for your OS.
